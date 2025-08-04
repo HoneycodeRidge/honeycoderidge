@@ -1,14 +1,13 @@
-# Hello! ☕️ My name is Teresa George =========================
+# Hello! ☕️ My name is Teresa =========================
   
-Software Developer || Concept Artist 
+Web Designer || Graphic Artist 
 ------------------------------------  
-<p>I've been a graphic designer for 8+ years who recently decided to jump into the world of tech. I've found that software development is something I really enjoy and am passionate about. One of my current goals is to work on an indie game and bring it to market.</p>
+<p>I've been an illustrator and graphic designer for 10+ years who recently decided to jump into the world of web design. I've found that his is something I really enjoy learning about. We'll see where it goes.</p>
 
-<p>🌍  I'm based in Mississippi</p>
-<p>🖥️  See my portfolio at Honeycoderidge.com</p>
-<p>✉️  You can contact me at honeycode.ridge@gmail.com</p>
+<p>🌍  I live in he forest.</p>
+<p>🖥️  Currently working on a tinyfol.io</p>
 <p>🚀  I'm currently working on Micro Dungeon Character Generator</p>
-<p>👾  I'm learning JavaScript</p>
+<p>👾  I'm learning Web Design (HTML/CSS)</p>
 
 ### Skills
 
