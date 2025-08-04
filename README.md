@@ -1,7 +1,7 @@
 # Hello! ☕️ My name is Teresa 
 =========================
   
-Web Designer || Graphic Artist 
+Graphic Artist || Fledgling Web Designer 
 ------------------------------------  
 <p>I've been an illustrator and graphic designer for 10+ years who recently decided to jump into the world of web design. I've found that his is something I really enjoy learning about. We'll see where it goes.</p>
 
