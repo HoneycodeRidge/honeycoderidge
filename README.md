@@ -5,10 +5,10 @@ Graphic Artist || Fledgling Web Designer
 ------------------------------------  
 <p>I've been an illustrator and graphic designer for 10+ years who recently decided to jump into the world of web design. I've found that his is something I really enjoy learning about. We'll see where it goes.</p>
 
-<p>🌍  I live in he forest.</p>
+<p>🌲  I live in the forest.(and its part of my personality) </p>
 <p>🖥️  Currently working on a tinyfol.io</p>
-<p>🚀  I'm currently working on Micro Dungeon Character Generator</p>
-<p>👾  I'm learning Web Design (HTML/CSS)</p>
+<p>📝  I'm currently learning everything.</p>
+<p>☕️  I'm learning Web Design (HTML/CSS)</p>
 
 ### Skills
 
